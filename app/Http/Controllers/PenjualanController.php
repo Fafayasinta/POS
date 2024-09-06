@@ -10,3 +10,4 @@ class PenjualanController extends Controller
         return view('penjualan.index');
     }
 }
+

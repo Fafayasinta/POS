@@ -22,3 +22,4 @@ class ProductController extends Controller
         return view('produk.baby-kid');
     }
 }
+

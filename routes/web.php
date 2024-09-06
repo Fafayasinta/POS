@@ -37,3 +37,5 @@ Route::get('/user/{id}/name/{name}', [UserController::class, 'showProfile']);
 
 // penjualan
 Route::get('/penjualan', [PenjualanController::class, 'index']);
+
+
